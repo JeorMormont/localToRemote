@@ -1,1 +1,1 @@
-console.log('testing local to remote repository')
+console.log('testing local to remote repository now')
